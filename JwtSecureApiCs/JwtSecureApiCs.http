@@ -1,0 +1,6 @@
+@JwtSecureApiCs_HostAddress = http://localhost:5225
+
+GET {{JwtSecureApiCs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
